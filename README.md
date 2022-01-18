@@ -1,5 +1,5 @@
 # SIMUL8-Simulation
-A coursework piece in simulation, produced in collaboration with Georgia Mellis, Emma Tarmey, Dave Waddington, Hugh Warden and Chloe Yong
+A simulation of a call-centre, towards a goal of minimising staffing costs, made in SIMUL8. Produced in collaboration with Georgia Mellis, Emma Tarmey, Dave Waddington, Hugh Warden and Chloe Yong.
 
 The main objective of the simulation is to model a call centre and minimise the staffing cost among the feasible solutions.
 The constraints on the solutions are:
