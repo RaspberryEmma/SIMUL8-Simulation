@@ -1,7 +1,7 @@
 # SIMUL8-Simulation
 A coursework piece in simulation, produced in collaboration with Georgia Mellis, Emma Tarmey, Dave Waddington, Hugh Warden and Chloe Yong
 
-The main objective of the simulation is to model a call centre and minimise thestaffing cost among the feasible solutions.
+The main objective of the simulation is to model a call centre and minimise the staffing cost among the feasible solutions.
 The constraints on the solutions are:
  - The trivial points that the numbers of workers must be positive integers
  - Having a Quality of Service of greater than 70%
